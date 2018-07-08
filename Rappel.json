@@ -1,9 +1,9 @@
 {"INFO":[
 {"id":"1",
 "Pays":"France",
-"Rappel":"ON"
+"Rappel":"OFF"
 },
 {"id":"2",
 "Pays":"Maroc",
-"Rappel":"ON"}
+"Rappel":"OFF"}
 ]}
